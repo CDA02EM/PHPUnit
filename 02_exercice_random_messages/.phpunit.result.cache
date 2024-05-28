@@ -1,0 +1,1 @@
+{"version":1,"defects":[],"times":{"MessageGeneratorTest::testGenerateMessage":0.01,"MessageGeneratorTest::testGetMessages":0.001,"MessageGeneratorTest::testAddAndRemoveMessage":0.002}}
